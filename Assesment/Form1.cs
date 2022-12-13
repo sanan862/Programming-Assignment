@@ -25,7 +25,7 @@ namespace Assesment
             recipes[1].addIngredient("100grams of greek yogurt");
             recipes[1].addIngredient("1 small bunch of coriandor");
             recipes[1].addIngredient("50g of ground almonds");
-            recipes.Add(new Recipe("chochlate waffle"));
+            recipes.Add(new Recipe("choclate waffle"));
             recipes[2].addIngredient("1 cup of purpose flour");
             recipes[2].addIngredient("1 cup of duthc process cocoa");
             recipes[2].addIngredient("1 cup of granulated sugar");
